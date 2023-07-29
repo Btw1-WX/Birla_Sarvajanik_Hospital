@@ -1,0 +1,1882 @@
+.desktop-home,
+.desktop-home * {
+  box-sizing: border-box;
+}
+.desktop-home {
+  background: #ffffff;
+  width: 90rem;
+  height: 390.1875rem;
+  position: relative;
+  overflow: hidden;
+}
+.top {
+  background: #eeeeee;
+  padding: 0.6875rem 8.125rem 0.6875rem 8.125rem;
+  display: flex;
+  flex-direction: row;
+  gap: 38rem;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+}
+.about-us-news-media-academics-testimonials-careers-contact {
+  color: #222f66;
+  text-align: left;
+  font: 400 0.75rem "PT Serif", sans-serif;
+  position: relative;
+}
+.social {
+  flex-shrink: 0;
+  width: 12.125rem;
+  height: 1.625rem;
+  position: static;
+}
+.follow-us-on {
+  color: #222f66;
+  text-align: left;
+  font: 400 0.75rem "PT Serif", sans-serif;
+  position: absolute;
+  left: 69.75rem;
+  top: 0.875rem;
+}
+.ellipse-1 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #1d88ca;
+  border-width: 0.0625rem;
+  width: 1.625rem;
+  height: 1.625rem;
+  position: absolute;
+  left: 80.25rem;
+  top: 0.6875rem;
+}
+.ellipse-2 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #cf00a2;
+  border-width: 0.0625rem;
+  width: 1.625rem;
+  height: 1.625rem;
+  position: absolute;
+  left: 78.375rem;
+  top: 0.6875rem;
+}
+.ellipse-3 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #00c2ff;
+  border-width: 0.0625rem;
+  width: 1.625rem;
+  height: 1.625rem;
+  position: absolute;
+  left: 76.5rem;
+  top: 0.6875rem;
+}
+.ellipse-4 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #053b8c;
+  border-width: 0.0625rem;
+  width: 1.625rem;
+  height: 1.625rem;
+  position: absolute;
+  left: 74.625rem;
+  top: 0.6875rem;
+}
+.vector {
+  position: absolute;
+  left: 75.1875rem;
+  top: 1.0625rem;
+  overflow: visible;
+}
+.vector2 {
+  position: absolute;
+  left: 76.875rem;
+  top: 1.125rem;
+  overflow: visible;
+}
+.vector3 {
+  position: absolute;
+  left: 78.8125rem;
+  top: 1.0625rem;
+  overflow: visible;
+}
+.vector4 {
+  position: absolute;
+  left: 80.6875rem;
+  top: 1.0625rem;
+  overflow: visible;
+}
+.header {
+  position: absolute;
+  inset: 0;
+}
+.search {
+  position: absolute;
+  left: 53.5rem;
+  top: 5rem;
+  overflow: visible;
+}
+.phone {
+  width: 9.625rem;
+  height: 1.4375rem;
+  position: static;
+}
+.vector6 {
+  position: absolute;
+  left: 57.3125rem;
+  top: 5.835625rem;
+  overflow: visible;
+}
+._022-6757-0111 {
+  color: #222f66;
+  text-align: left;
+  font: 700 1.125rem "PT Sans", sans-serif;
+  position: absolute;
+  left: 59.125rem;
+  top: 5.625rem;
+}
+.book {
+  width: 13.8125rem;
+  height: 2.625rem;
+  position: static;
+}
+.vector7 {
+  position: absolute;
+  left: 69.5rem;
+  top: 5.723125rem;
+  overflow: visible;
+}
+.book-an-appointment {
+  color: #29367d;
+  text-align: left;
+  font: 400 1rem "PT Sans", sans-serif;
+  position: absolute;
+  left: 71.0625rem;
+  top: 5.65625rem;
+  width: 9.25rem;
+  height: 1.253125rem;
+}
+.rectangle-2 {
+  border-radius: 1.875rem;
+  border-style: solid;
+  border-color: #222f66;
+  border-width: 0.125rem;
+  width: 13.8125rem;
+  height: 2.625rem;
+  position: absolute;
+  left: 68.0625rem;
+  top: 5rem;
+}
+.blue {
+  background: #222f66;
+  width: 90rem;
+  height: 20.4375rem;
+  position: absolute;
+  left: 0rem;
+  top: 9.125rem;
+}
+.grey {
+  background: #eeeeee;
+  width: 90.8125rem;
+  height: 22.625rem;
+  position: absolute;
+  left: -0.375rem;
+  top: 29.625rem;
+}
+.home-specialities-patient-services-healthcare-experts-facilities-international-patients-blog {
+  text-align: left;
+  font: 400 0.9375rem "PT Serif", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 13.75rem;
+  top: 10.25rem;
+}
+.home-specialities-patient-services-healthcare-experts-facilities-international-patients-blog-span {
+  color: #00c2ff;
+  font: 400 0.9375rem "PT Serif", sans-serif;
+  text-transform: uppercase;
+}
+.home-specialities-patient-services-healthcare-experts-facilities-international-patients-blog-span2 {
+  color: #ffffff;
+  font: 400 0.9375rem "PT Serif", sans-serif;
+  text-transform: uppercase;
+}
+.banner {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-3 {
+  background: #d9d9d9;
+  width: 83.75rem;
+  height: 32.5rem;
+  position: absolute;
+  left: 3.125rem;
+  top: 12.875rem;
+}
+.side-view-doctor-holding-stethoscope-1 {
+  width: 85.875rem;
+  height: 57.3125rem;
+  position: absolute;
+  left: 2.0625rem;
+  top: 11.25rem;
+}
+.doctor-talking-with-patients-1 {
+  width: 137.5rem;
+  height: 91.5625rem;
+  position: absolute;
+  left: -29.8125rem;
+  top: 11.75rem;
+}
+.doctor-holding-patient-medium-shot-1 {
+  width: 112rem;
+  height: 74.6875rem;
+  position: absolute;
+  left: -2.5rem;
+  top: 0.1875rem;
+}
+.ban-bullet {
+  width: 2.875rem;
+  height: 0.75rem;
+  position: static;
+}
+.ellipse-6 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 0.75rem;
+  height: 0.75rem;
+  position: absolute;
+  left: 43.5625rem;
+  top: 42.3125rem;
+}
+.ellipse-7 {
+  background: #29367d;
+  border-radius: 50%;
+  width: 0.75rem;
+  height: 0.75rem;
+  position: absolute;
+  left: 44.625rem;
+  top: 42.3125rem;
+}
+.ellipse-8 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 0.75rem;
+  height: 0.75rem;
+  position: absolute;
+  left: 45.6875rem;
+  top: 42.3125rem;
+}
+.ban-text {
+  width: 19.6875rem;
+  height: 14.1875rem;
+  position: static;
+}
+.welcome-to-birla-hospital {
+  color: #222f66;
+  text-align: left;
+  font: 700 2rem "PT Serif", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 8.75rem;
+  top: 21.375rem;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-interdum-vivamus-augue-cursus-eget-sagittis-etiam {
+  color: #0e0e0f;
+  text-align: left;
+  font: 400 1rem "PT Serif", sans-serif;
+  position: absolute;
+  left: 8.8125rem;
+  top: 27.4375rem;
+  width: 19.625rem;
+  height: 4.25rem;
+}
+.component-1 {
+  width: 8.75rem;
+  height: 2.625rem;
+  position: absolute;
+  left: 8.75rem;
+  top: 32.9375rem;
+}
+.rectangle-4 {
+  background: #222f66;
+  border-radius: 1.59375rem;
+  width: 8.75rem;
+  height: 2.625rem;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+}
+.know-more {
+  color: #ffffff;
+  text-align: left;
+  font: 400 1rem "PT Serif", sans-serif;
+  position: absolute;
+  left: 1.375rem;
+  top: 0.5625rem;
+}
+.ctas {
+  position: absolute;
+  inset: 0;
+}
+.boa {
+  width: 10.5625rem;
+  height: 3.75rem;
+  position: absolute;
+  left: 8.125rem;
+  top: 46.625rem;
+}
+.rectangle-7 {
+  background: #e1e1e1;
+  border-radius: 1.5625rem;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0.0625rem;
+  width: 10.5625rem;
+  height: 3.125rem;
+  position: absolute;
+  left: 0rem;
+  top: 0.625rem;
+  filter: blur(0.3125rem);
+}
+.rectangle-8 {
+  background: #f8f8f8;
+  border-radius: 1.5625rem;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0.0625rem;
+  width: 10.5625rem;
+  height: 3.125rem;
+  position: absolute;
+  left: 0rem;
+  top: 0.625rem;
+}
+.ellipse-9 {
+  background: #159eec;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0.0625rem;
+  width: 2.375rem;
+  height: 2.375rem;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+}
+.book-an-appointment2 {
+  color: #159eec;
+  text-align: left;
+  font: 400 0.875rem "PT Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 2.8125rem;
+  top: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.boa2 {
+  width: 10.5625rem;
+  height: 3.75rem;
+  position: absolute;
+  left: 18.875rem;
+  top: 46.625rem;
+}
+.boa3 {
+  width: 10.5625rem;
+  height: 3.75rem;
+  position: absolute;
+  left: 29.625rem;
+  top: 46.625rem;
+}
+.boa4 {
+  width: 10.5625rem;
+  height: 3.75rem;
+  position: absolute;
+  left: 40.375rem;
+  top: 46.625rem;
+}
+.boa5 {
+  width: 10.5625rem;
+  height: 3.75rem;
+  position: absolute;
+  left: 51.125rem;
+  top: 46.625rem;
+}
+.boa6 {
+  width: 10.5625rem;
+  height: 3.75rem;
+  position: absolute;
+  left: 61.875rem;
+  top: 46.625rem;
+}
+.boa7 {
+  width: 10.5625rem;
+  height: 3.75rem;
+  position: absolute;
+  left: 72.625rem;
+  top: 46.625rem;
+}
+.vector8 {
+  position: absolute;
+  left: 8.875rem;
+  top: 47.043125rem;
+  overflow: visible;
+}
+.vector9 {
+  position: absolute;
+  left: 19.595625rem;
+  top: 47.114375rem;
+  overflow: visible;
+}
+.vector10 {
+  position: absolute;
+  left: 30.25rem;
+  top: 47.043125rem;
+  overflow: visible;
+}
+.vector11 {
+  position: absolute;
+  left: 41.01375rem;
+  top: 46.93rem;
+  overflow: visible;
+}
+.vector12 {
+  position: absolute;
+  left: 51.875rem;
+  top: 47.099375rem;
+  overflow: visible;
+}
+.vector13 {
+  position: absolute;
+  left: 62.625rem;
+  top: 47.043125rem;
+  overflow: visible;
+}
+.vector14 {
+  position: absolute;
+  left: 73.375rem;
+  top: 47.099375rem;
+  overflow: visible;
+}
+.excellence {
+  position: absolute;
+  inset: 0;
+}
+.group-4 {
+  width: 3.375rem;
+  height: 0.875rem;
+  position: static;
+}
+.ellipse-10 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 0.875rem;
+  height: 0.875rem;
+  position: absolute;
+  left: 43.3125rem;
+  top: 88.375rem;
+}
+.ellipse-11 {
+  background: #29367d;
+  border-radius: 50%;
+  width: 0.875rem;
+  height: 0.875rem;
+  position: absolute;
+  left: 44.5625rem;
+  top: 88.375rem;
+}
+.ellipse-12 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 0.875rem;
+  height: 0.875rem;
+  position: absolute;
+  left: 45.8125rem;
+  top: 88.375rem;
+}
+.group-30 {
+  width: 73.75rem;
+  height: 19.875rem;
+  position: static;
+}
+.group-1 {
+  width: 23.75rem;
+  height: 19.875rem;
+  position: absolute;
+  left: 8.125rem;
+  top: 66.0625rem;
+}
+.mask-group {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-9 {
+  background: #d9d9d9;
+  border-radius: 1.25rem;
+  width: 23.75rem;
+  height: 18.125rem;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+}
+.doctor-talking-with-patients-2 {
+  width: 29.75rem;
+  height: 22.09875rem;
+  position: absolute;
+  left: -3.5rem;
+  top: -0.209375rem;
+}
+.rectangle-10 {
+  background: #e4e4e4;
+  border-radius: 0.5rem;
+  width: 18.75rem;
+  height: 3.375rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 16.5rem;
+  filter: blur(0.3125rem);
+}
+.rectangle-11 {
+  background: #ffffff;
+  border-radius: 0.5rem;
+  width: 18.75rem;
+  height: 3.375rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 16.5rem;
+}
+.cardiology-center-of-excellence {
+  color: #222f66;
+  text-align: center;
+  font: 700 1.0625rem/159.4% "PT Sans", sans-serif;
+  position: absolute;
+  left: 4.6875rem;
+  top: 17.375rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-12 {
+  width: 23.75rem;
+  height: 19.875rem;
+  position: absolute;
+  left: 33.125rem;
+  top: 66.0625rem;
+}
+.cardiology-center-of-excellence2 {
+  color: #222f66;
+  text-align: center;
+  font: 700 1.0625rem/159.4% "PT Sans", sans-serif;
+  position: absolute;
+  left: 3.4375rem;
+  top: 17.375rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-3 {
+  width: 23.75rem;
+  height: 19.875rem;
+  position: absolute;
+  left: 58.125rem;
+  top: 66.0625rem;
+}
+.cardiology-center-of-excellence3 {
+  color: #222f66;
+  text-align: center;
+  font: 700 1.0625rem/159.4% "PT Sans", sans-serif;
+  position: absolute;
+  left: 4.8125rem;
+  top: 17.375rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-semper-ultrices-sed-adipiscing-malesuada-aliquam-nisl-fusce-sit-scelerisque-suspendisse-feugiat-lectus-nulla-ullamcorper-porttitor-purus-enim-volutpat-mattis-amet-semper-volutpat-odio-risus-faucibus-interdum-volutpat-nibh-venenatis {
+  color: #606060;
+  text-align: center;
+  font: 400 0.9375rem/159.4% "PT Sans", sans-serif;
+  text-transform: lowercase;
+  position: absolute;
+  left: 21.1875rem;
+  top: 58.8125rem;
+  width: 47.625rem;
+  height: 5.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.our-centres-of-excellence {
+  text-align: left;
+  font: 400 2.25rem "PT Serif", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 28.6875rem;
+  top: 55.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.our-centres-of-excellence-span {
+  color: #222f66;
+  font: 400 2.25rem "PT Serif", sans-serif;
+  text-transform: uppercase;
+}
+.our-centres-of-excellence-span2 {
+  color: #00c2ff;
+  font: 400 2.25rem "PT Serif", sans-serif;
+  text-transform: uppercase;
+}
+.birla-sarvajanik-hospital {
+  color: #222f66;
+  text-align: left;
+  font: 400 1.5rem "PT Serif", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 15.25rem;
+  top: 5.3125rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-5 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-13 {
+  border-radius: 50%;
+  border-style: dashed;
+  border-color: rgba(41, 54, 125, 0.38);
+  border-width: 0.0625rem;
+  width: 12.25rem;
+  height: 12.25rem;
+  position: absolute;
+  left: 58.5rem;
+  top: 102rem;
+}
+.ellipse-14 {
+  border-radius: 50%;
+  border-style: dashed;
+  border-color: rgba(41, 54, 125, 0.38);
+  border-width: 0.0625rem;
+  width: 17.375rem;
+  height: 17.375rem;
+  position: absolute;
+  left: 55.9375rem;
+  top: 99.4375rem;
+}
+.ellipse-15 {
+  border-radius: 50%;
+  border-style: dashed;
+  border-color: rgba(41, 54, 125, 0.38);
+  border-width: 0.0625rem;
+  width: 22.5rem;
+  height: 22.5rem;
+  position: absolute;
+  left: 53.375rem;
+  top: 96.875rem;
+}
+.ellipse-16 {
+  background: #29367d;
+  border-radius: 50%;
+  width: 8.75rem;
+  height: 8.75rem;
+  position: absolute;
+  left: 60.3125rem;
+  top: 103.8125rem;
+}
+.ellipse-17 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 9.625rem;
+  height: 9.625rem;
+  position: absolute;
+  left: 71.375rem;
+  top: 100.125rem;
+}
+.ellipse-18 {
+  background: #29367d;
+  border-radius: 50%;
+  width: 7.25rem;
+  height: 7.25rem;
+  position: absolute;
+  left: 72.5625rem;
+  top: 101.3125rem;
+}
+.ellipse-19 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 9.625rem;
+  height: 9.625rem;
+  position: absolute;
+  left: 57.1875rem;
+  top: 115.6875rem;
+}
+.ellipse-20 {
+  background: #e9e9e9;
+  border-radius: 50%;
+  width: 7.25rem;
+  height: 7.25rem;
+  position: absolute;
+  left: 58.375rem;
+  top: 116.875rem;
+}
+.ellipse-21 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 9.625rem;
+  height: 9.625rem;
+  position: absolute;
+  left: 49.0625rem;
+  top: 97.1875rem;
+}
+.ellipse-22 {
+  background: #e9e9e9;
+  border-radius: 50%;
+  width: 7.25rem;
+  height: 7.25rem;
+  position: absolute;
+  left: 50.25rem;
+  top: 98.375rem;
+}
+.book-appointment {
+  position: absolute;
+  inset: 0;
+}
+.female-doctor-her-patient-shaking-hands-consultation-1 {
+  width: 62.75rem;
+  height: 41.8125rem;
+  position: absolute;
+  left: -9.9375rem;
+  top: 136rem;
+}
+.rectangle-17 {
+  background: #222f66;
+  width: 45.0625rem;
+  height: 41.8125rem;
+  position: absolute;
+  left: 45rem;
+  top: 136rem;
+}
+.polygon-2 {
+  position: absolute;
+  left: 42.375rem;
+  top: 161.0625rem;
+  transform: translate(0rem, -7.6975rem);
+  overflow: visible;
+}
+.book-appoinment {
+  text-align: left;
+  font: 400 2.25rem "PT Serif", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 48.0625rem;
+  top: 140.5rem;
+}
+.book-appoinment-span {
+  color: #ffffff;
+  font: 400 2.25rem "PT Serif", sans-serif;
+  text-transform: uppercase;
+}
+.book-appoinment-span2 {
+  color: #159eec;
+  font: 400 2.25rem "PT Serif", sans-serif;
+  text-transform: uppercase;
+}
+.to-reach-out-to-our-saifee-hospital-team-please-fill-in-the-below-form-our-team-members-will-revert-back-to-you-shortly {
+  color: #ffffff;
+  text-align: left;
+  font: 400 0.9375rem/1.375rem "PT Sans", sans-serif;
+  position: absolute;
+  left: 48.0625rem;
+  top: 144.3125rem;
+  width: 33.625rem;
+  height: 3.5rem;
+}
+.form {
+  width: 33.625rem;
+  height: 2.0625rem;
+  position: absolute;
+  left: 48.25rem;
+  top: 149rem;
+}
+.line-1 {
+  border-style: solid;
+  border-color: #3a478d;
+  border-width: 0.0625rem 0 0 0;
+  width: 33.625rem;
+  height: 0rem;
+  position: absolute;
+  left: 0rem;
+  top: 2.0625rem;
+}
+.full-name {
+  color: #a1a7cb;
+  text-align: left;
+  font: 400 0.9375rem "PT Sans", sans-serif;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+}
+.form2 {
+  width: 33.625rem;
+  height: 2.0625rem;
+  position: absolute;
+  left: 48.25rem;
+  top: 152.375rem;
+}
+.form3 {
+  width: 33.625rem;
+  height: 2.0625rem;
+  position: absolute;
+  left: 48.25rem;
+  top: 155.75rem;
+}
+.form4 {
+  width: 33.625rem;
+  height: 2.0625rem;
+  position: absolute;
+  left: 48.25rem;
+  top: 159.125rem;
+}
+.form5 {
+  width: 33.625rem;
+  height: 2.0625rem;
+  position: absolute;
+  left: 48.25rem;
+  top: 162.5rem;
+}
+.line-2 {
+  border-style: solid;
+  border-color: #3a478d;
+  border-width: 0.0625rem 0 0 0;
+  width: 33.5rem;
+  height: 0rem;
+  position: absolute;
+  left: 48.375rem;
+  top: 167.6875rem;
+}
+.rectangle-18 {
+  background: #159eec;
+  width: 8.5rem;
+  height: 3.125rem;
+  position: absolute;
+  left: 48.4375rem;
+  top: 169.625rem;
+}
+.book-now {
+  color: #ffffff;
+  text-align: left;
+  font: 700 0.9375rem "PT Sans", sans-serif;
+  position: absolute;
+  left: 50.375rem;
+  top: 170.625rem;
+}
+.testimonials {
+  position: absolute;
+  inset: 0;
+}
+.testimonials2 {
+  color: #222f66;
+  text-align: left;
+  font: 400 2.25rem "PT Serif", sans-serif;
+  position: absolute;
+  left: 36.9375rem;
+  top: 181.1875rem;
+}
+.group-10 {
+  width: 61.375rem;
+  height: 14.8125rem;
+  position: static;
+}
+.group-8 {
+  width: 29rem;
+  height: 14.8125rem;
+  position: static;
+}
+.tm-1-1 {
+  width: 5.5625rem;
+  height: 5.5625rem;
+  position: absolute;
+  left: 14.3125rem;
+  top: 186.1875rem;
+}
+.urvi-rathod {
+  color: #159eec;
+  text-align: left;
+  font: 700 1.125rem "PT Serif", sans-serif;
+  position: absolute;
+  left: 21rem;
+  top: 187.8125rem;
+}
+.teacher {
+  color: #29367d;
+  text-align: left;
+  font: 700 0.9375rem "PT Serif", sans-serif;
+  position: absolute;
+  left: 21rem;
+  top: 189.375rem;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-fusce-at-amet-eu-non-vel-netus-duis-enim-quis-arcu-nibh-nam-eget-lectus-lacus-mauris-tellus-in-ut-aliquam-neque-mi-enim-accumsan-eget-adipiscing-lacinia-lacus-viverra-tortor-feugiat-in-amet-morbi-tincidunt-bibendum-in-urna-consectetur-elementum-id-malesuada-molestie-posuere-nunc-et-amet-amet {
+  color: #606060;
+  text-align: left;
+  font: 400 0.9375rem "PT Sans", sans-serif;
+  position: absolute;
+  left: 14.875rem;
+  top: 192.5rem;
+  width: 28.4375rem;
+  height: 8.5rem;
+}
+.group-9 {
+  width: 29.0625rem;
+  height: 14.8125rem;
+  position: static;
+}
+.tm-2-1 {
+  width: 5.75rem;
+  height: 5.75rem;
+  position: absolute;
+  left: 46.625rem;
+  top: 186.1875rem;
+}
+.parash-thakaral {
+  color: #159eec;
+  text-align: left;
+  font: 700 1.125rem "PT Serif", sans-serif;
+  position: absolute;
+  left: 53.375rem;
+  top: 187.8125rem;
+}
+.product-designer {
+  color: #29367d;
+  text-align: left;
+  font: 700 0.9375rem "PT Serif", sans-serif;
+  position: absolute;
+  left: 53.375rem;
+  top: 189.375rem;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-fusce-at-amet-eu-non-vel-netus-duis-enim-quis-arcu-nibh-nam-eget-lectus-lacus-mauris-tellus-in-ut-aliquam-neque-mi-enim-accumsan-eget-adipiscing-lacinia-lacus-viverra-tortor-feugiat-in-amet-morbi-tincidunt-bibendum-in-urna-consectetur-elementum-id-malesuada-molestie-posuere-nunc-et-amet-amet2 {
+  color: #606060;
+  text-align: left;
+  font: 400 0.9375rem "PT Sans", sans-serif;
+  position: absolute;
+  left: 47.25rem;
+  top: 192.5rem;
+  width: 28.4375rem;
+  height: 8.5rem;
+}
+.group-52 {
+  width: 3.375rem;
+  height: 0.875rem;
+  position: static;
+}
+.ellipse-102 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 0.875rem;
+  height: 0.875rem;
+  position: absolute;
+  left: 43.3125rem;
+  top: 202.125rem;
+}
+.ellipse-112 {
+  background: #29367d;
+  border-radius: 50%;
+  width: 0.875rem;
+  height: 0.875rem;
+  position: absolute;
+  left: 44.5625rem;
+  top: 202.125rem;
+}
+.ellipse-122 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 0.875rem;
+  height: 0.875rem;
+  position: absolute;
+  left: 45.8125rem;
+  top: 202.125rem;
+}
+.news {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-31 {
+  background: #eeeeee;
+  width: 92.375rem;
+  height: 31.625rem;
+  position: absolute;
+  left: -1.1875rem;
+  top: 238.875rem;
+}
+.birla-news {
+  text-align: left;
+  font: 400 2.25rem "PT Serif", sans-serif;
+  position: absolute;
+  left: 8.125rem;
+  top: 244.875rem;
+}
+.birla-news-span {
+  color: #222f66;
+  font: 400 2.25rem "PT Serif", sans-serif;
+}
+.birla-news-span2 {
+  color: #159eec;
+  font: 400 2.25rem "PT Serif", sans-serif;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-lectus-in-mauris-facilisis-semper-sapien-risus-aliquam-egestas-non-duis-lacus-at-eu-sapien-consectetur-mattis-aliquet-ipsum-etiam-scelerisque-a-sed-elementum-pulvinar-porta-eleifend-elit-diam-mattis-iaculis-ac-vitae-pellentesque-aliquam-augue {
+  color: #606060;
+  text-align: left;
+  font: 400 0.9375rem "PT Sans", sans-serif;
+  position: absolute;
+  left: 8.125rem;
+  top: 248.875rem;
+  width: 22.75rem;
+  height: 5.375rem;
+}
+.rectangle-33 {
+  background: #222f66;
+  border-radius: 1.5625rem;
+  width: 10.1875rem;
+  height: 3.125rem;
+  position: absolute;
+  left: 8rem;
+  top: 257.625rem;
+}
+.read-all-news {
+  color: #ffffff;
+  text-align: left;
+  font: 400 0.9375rem "PT Serif", sans-serif;
+  position: absolute;
+  left: 9.5rem;
+  top: 258.4375rem;
+}
+.group-122 {
+  width: 17.5rem;
+  height: 17.5rem;
+  position: static;
+}
+.rectangle-32 {
+  background: #222f66;
+  border-radius: 1.25rem;
+  width: 17.5rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 51.875rem;
+  top: 244.6875rem;
+}
+.helping-seniors-learn-new-hobbies {
+  color: #ffffff;
+  text-align: left;
+  font: 400 1.125rem "PT Serif", sans-serif;
+  position: absolute;
+  left: 53.75rem;
+  top: 246.75rem;
+}
+.lorem-ipsum-dolor-sit-amet-vel-te-doming-repudiare-eum-nihil-voluptatum-ne-tollit {
+  color: #ffffff;
+  text-align: left;
+  font: 400 0.9375rem "PT Sans", sans-serif;
+  position: absolute;
+  left: 53.875rem;
+  top: 252.75rem;
+  width: 13.375rem;
+  height: 3.875rem;
+}
+.vector15 {
+  position: absolute;
+  left: 53.75rem;
+  top: 249.5325rem;
+  overflow: visible;
+}
+._05-september-2022 {
+  color: #d9d9d9;
+  text-align: left;
+  font: 400 0.75rem "PT Sans", sans-serif;
+  position: absolute;
+  left: 55.0625rem;
+  top: 250.8125rem;
+}
+.rectangle-37 {
+  border-radius: 1.125rem;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0.0625rem;
+  width: 7.5rem;
+  height: 2.25rem;
+  position: absolute;
+  left: 53.8125rem;
+  top: 257.4375rem;
+}
+.read-more {
+  color: #ffffff;
+  text-align: left;
+  font: 400 0.9375rem "PT Serif", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 54.875rem;
+  top: 257.8125rem;
+}
+.group-13 {
+  width: 17.5rem;
+  height: 17.5rem;
+  position: static;
+}
+.rectangle-322 {
+  background: #ffffff;
+  border-radius: 1.25rem;
+  width: 17.5rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 33.125rem;
+  top: 244.6875rem;
+}
+.helping-seniors-learn-new-hobbies2 {
+  color: #606060;
+  text-align: left;
+  font: 400 1.125rem "PT Serif", sans-serif;
+  position: absolute;
+  left: 35rem;
+  top: 246.75rem;
+}
+.lorem-ipsum-dolor-sit-amet-vel-te-doming-repudiare-eum-nihil-voluptatum-ne-tollit2 {
+  color: #606060;
+  text-align: left;
+  font: 400 0.9375rem "PT Sans", sans-serif;
+  position: absolute;
+  left: 35.125rem;
+  top: 252.75rem;
+  width: 13.375rem;
+  height: 3.875rem;
+}
+.vector16 {
+  position: absolute;
+  left: 35rem;
+  top: 249.5325rem;
+  overflow: visible;
+}
+._05-september-20222 {
+  color: #adadad;
+  text-align: left;
+  font: 400 0.75rem "PT Sans", sans-serif;
+  position: absolute;
+  left: 36.3125rem;
+  top: 250.8125rem;
+}
+.rectangle-372 {
+  border-radius: 1.125rem;
+  border-style: solid;
+  border-color: #606060;
+  border-width: 0.0625rem;
+  width: 7.5rem;
+  height: 2.25rem;
+  position: absolute;
+  left: 35.0625rem;
+  top: 257.4375rem;
+}
+.read-more2 {
+  color: #606060;
+  text-align: left;
+  font: 400 0.9375rem "PT Serif", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 36.125rem;
+  top: 257.8125rem;
+}
+.group-14 {
+  width: 17.5rem;
+  height: 17.5rem;
+  position: static;
+}
+.rectangle-323 {
+  background: #ffffff;
+  border-radius: 1.25rem;
+  width: 17.5rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 70.625rem;
+  top: 244.6875rem;
+}
+.helping-seniors-learn-new-hobbies3 {
+  color: #606060;
+  text-align: left;
+  font: 400 1.125rem "PT Serif", sans-serif;
+  position: absolute;
+  left: 72.5rem;
+  top: 246.75rem;
+}
+.lorem-ipsum-dolor-sit-amet-vel-te-doming-repudiare-eum-nihil-voluptatum-ne-tollit3 {
+  color: #606060;
+  text-align: left;
+  font: 400 0.9375rem "PT Sans", sans-serif;
+  position: absolute;
+  left: 72.625rem;
+  top: 252.75rem;
+  width: 13.375rem;
+  height: 3.875rem;
+}
+.vector17 {
+  position: absolute;
+  left: 72.5rem;
+  top: 249.5325rem;
+  overflow: visible;
+}
+._05-september-20223 {
+  color: #adadad;
+  text-align: left;
+  font: 400 0.75rem "PT Sans", sans-serif;
+  position: absolute;
+  left: 73.8125rem;
+  top: 250.8125rem;
+}
+.rectangle-373 {
+  border-radius: 1.125rem;
+  border-style: solid;
+  border-color: #606060;
+  border-width: 0.0625rem;
+  width: 7.5rem;
+  height: 2.25rem;
+  position: absolute;
+  left: 72.5625rem;
+  top: 257.4375rem;
+}
+.read-more3 {
+  color: #606060;
+  text-align: left;
+  font: 400 0.9375rem "PT Serif", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 73.625rem;
+  top: 257.8125rem;
+}
+.group-11 {
+  width: 3.375rem;
+  height: 0.875rem;
+  position: static;
+}
+.ellipse-103 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 0.875rem;
+  height: 0.875rem;
+  position: absolute;
+  left: 58.9375rem;
+  top: 264.4375rem;
+}
+.ellipse-113 {
+  background: #29367d;
+  border-radius: 50%;
+  width: 0.875rem;
+  height: 0.875rem;
+  position: absolute;
+  left: 60.1875rem;
+  top: 264.4375rem;
+}
+.ellipse-123 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 0.875rem;
+  height: 0.875rem;
+  position: absolute;
+  left: 61.4375rem;
+  top: 264.4375rem;
+}
+.blogs {
+  position: absolute;
+  inset: 0;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-semper-ultrices-sed-adipiscing-malesuada-aliquam-nisl-fusce-sit-scelerisque-suspendisse-feugiat-lectus-nulla-ullamcorper-porttitor-purus-enim-volutpat-mattis-amet-semper-volutpat-odio-risus-faucibus-interdum-volutpat-nibh-venenatis2 {
+  color: #606060;
+  text-align: center;
+  font: 400 0.9375rem/159.4% "PT Sans", sans-serif;
+  text-transform: lowercase;
+  position: absolute;
+  left: 21.1875rem;
+  top: 277.3125rem;
+  width: 47.625rem;
+  height: 5.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.our-blog {
+  text-align: left;
+  font: 400 2.25rem "PT Serif", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 38.9375rem;
+  top: 273.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.our-blog-span {
+  color: #222f66;
+  font: 400 2.25rem "PT Serif", sans-serif;
+  text-transform: uppercase;
+}
+.our-blog-span2 {
+  color: #00c2ff;
+  font: 400 2.25rem "PT Serif", sans-serif;
+  text-transform: uppercase;
+}
+.item {
+  width: 23.75rem;
+  height: 32.8125rem;
+  position: static;
+}
+.mask-group2 {
+  width: 23.75rem;
+  height: 19.375rem;
+  position: static;
+}
+.rectangle-38 {
+  background: #d9d9d9;
+  border-radius: 0.875rem;
+  width: 23.75rem;
+  height: 19.375rem;
+  position: absolute;
+  left: 8.125rem;
+  top: 285.6875rem;
+}
+.happy-doctor-holding-clipboard-with-patients-1 {
+  width: 34rem;
+  height: 22.6875rem;
+  position: absolute;
+  left: 32.375rem;
+  top: 285.4375rem;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.the-medical-experts-carefully {
+  color: #222f66;
+  text-align: left;
+  font: 700 1.25rem/159.4% "PT Serif", sans-serif;
+  position: absolute;
+  left: 8.125rem;
+  top: 306.5625rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-fusce-enim-fames-quam-pellentesque-interdum-purus-senectus-feugiat-elit-c {
+  color: #606060;
+  text-align: left;
+  font: 400 0.9375rem/159.4% "PT Sans", sans-serif;
+  position: absolute;
+  left: 8.25rem;
+  top: 309.1875rem;
+  width: 23.4375rem;
+  height: 4.5625rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-39 {
+  border-radius: 1.5625rem;
+  border-style: solid;
+  border-color: #222f66;
+  border-width: 0.0625rem;
+  width: 7.9375rem;
+  height: 3.125rem;
+  position: absolute;
+  left: 8.4375rem;
+  top: 315.375rem;
+}
+.read-more4 {
+  color: #222f66;
+  text-align: left;
+  font: 400 0.9375rem/159.4% "PT Serif", sans-serif;
+  position: absolute;
+  left: 9.75rem;
+  top: 316.1875rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-382 {
+  background: #d9d9d9;
+  border-radius: 0.875rem;
+  width: 23.75rem;
+  height: 19.375rem;
+  position: absolute;
+  left: 33.125rem;
+  top: 285.6875rem;
+}
+.medical-banner-with-doctor-patient-1 {
+  width: 33.875rem;
+  height: 22.5625rem;
+  position: absolute;
+  left: 28.875rem;
+  top: 284.5625rem;
+}
+.the-medical-experts-carefully2 {
+  color: #222f66;
+  text-align: left;
+  font: 700 1.25rem/159.4% "PT Serif", sans-serif;
+  position: absolute;
+  left: 33.125rem;
+  top: 306.5625rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-fusce-enim-fames-quam-pellentesque-interdum-purus-senectus-feugiat-elit-c2 {
+  color: #606060;
+  text-align: left;
+  font: 400 0.9375rem/159.4% "PT Sans", sans-serif;
+  position: absolute;
+  left: 33.25rem;
+  top: 309.1875rem;
+  width: 23.4375rem;
+  height: 4.5625rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-392 {
+  border-radius: 1.5625rem;
+  border-style: solid;
+  border-color: #222f66;
+  border-width: 0.0625rem;
+  width: 7.9375rem;
+  height: 3.125rem;
+  position: absolute;
+  left: 33.4375rem;
+  top: 315.375rem;
+}
+.read-more5 {
+  color: #222f66;
+  text-align: left;
+  font: 400 0.9375rem/159.4% "PT Serif", sans-serif;
+  position: absolute;
+  left: 34.75rem;
+  top: 316.1875rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-383 {
+  background: #d9d9d9;
+  border-radius: 0.875rem;
+  width: 23.75rem;
+  height: 19.375rem;
+  position: absolute;
+  left: 58.125rem;
+  top: 285.6875rem;
+}
+.team-young-specialist-doctors-standing-corridor-hospital-1 {
+  width: 37.25rem;
+  height: 24.8125rem;
+  position: absolute;
+  left: 46.375rem;
+  top: 284.3125rem;
+}
+.young-female-doctor-isolated-white-background-2 {
+  width: 38.5rem;
+  height: 25.6875rem;
+  position: absolute;
+  left: 81.875rem;
+  top: 282.9375rem;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.the-medical-experts-carefully3 {
+  color: #222f66;
+  text-align: left;
+  font: 700 1.25rem/159.4% "PT Serif", sans-serif;
+  position: absolute;
+  left: 58.125rem;
+  top: 306.5625rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-fusce-enim-fames-quam-pellentesque-interdum-purus-senectus-feugiat-elit-c3 {
+  color: #606060;
+  text-align: left;
+  font: 400 0.9375rem/159.4% "PT Sans", sans-serif;
+  position: absolute;
+  left: 58.25rem;
+  top: 309.1875rem;
+  width: 23.4375rem;
+  height: 4.5625rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-393 {
+  border-radius: 1.5625rem;
+  border-style: solid;
+  border-color: #222f66;
+  border-width: 0.0625rem;
+  width: 7.9375rem;
+  height: 3.125rem;
+  position: absolute;
+  left: 58.4375rem;
+  top: 315.375rem;
+}
+.read-more6 {
+  color: #222f66;
+  text-align: left;
+  font: 400 0.9375rem/159.4% "PT Serif", sans-serif;
+  position: absolute;
+  left: 59.75rem;
+  top: 316.1875rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ellipse-104 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 0.875rem;
+  height: 0.875rem;
+  position: absolute;
+  left: 43.3125rem;
+  top: 320.625rem;
+}
+.ellipse-114 {
+  background: #29367d;
+  border-radius: 50%;
+  width: 0.875rem;
+  height: 0.875rem;
+  position: absolute;
+  left: 44.5625rem;
+  top: 320.625rem;
+}
+.ellipse-124 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 0.875rem;
+  height: 0.875rem;
+  position: absolute;
+  left: 45.8125rem;
+  top: 320.625rem;
+}
+.copyright {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-52 {
+  background: #d9d9d9;
+  width: 94.25rem;
+  height: 9rem;
+  position: absolute;
+  left: -2.75rem;
+  top: 381.1875rem;
+}
+.privacy-policy-disclaimer-contact-sitemap {
+  color: #29367d;
+  text-align: left;
+  font: 700 0.75rem "PT Serif", sans-serif;
+  position: absolute;
+  left: 3.5rem;
+  top: 382.5625rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._2022-aditya-birla-hospital-all-rights-reserved {
+  color: #222f66;
+  text-align: right;
+  font: 700 0.75rem "PT Serif", sans-serif;
+  position: absolute;
+  left: 67.5625rem;
+  top: 382.5625rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.contacts-section {
+  width: 62rem;
+  height: 22.6875rem;
+  position: absolute;
+  left: 14rem;
+  top: 324.75rem;
+}
+.group-522 {
+  position: absolute;
+  inset: 0;
+}
+.contact {
+  color: var(--primary, #1f2b6c);
+  text-align: center;
+  font: var(--display-2, 400 2rem "Yeseva One", sans-serif);
+  position: absolute;
+  left: 27rem;
+  top: 1.8125rem;
+}
+.get-in-touch {
+  color: var(--secondary, #159eec);
+  text-align: center;
+  font: var(--caption, 700 1.125rem "Work Sans", sans-serif);
+  text-transform: uppercase;
+  position: absolute;
+  left: 26rem;
+  top: 0rem;
+}
+.group-82 {
+  position: absolute;
+  inset: 0;
+}
+.group-79 {
+  width: 14.5625rem;
+  height: 14.5625rem;
+  position: static;
+}
+.rectangle-13 {
+  background: var(--primary, #1f2b6c);
+  border-radius: 0.3125rem;
+  width: 14.5625rem;
+  height: 14.5625rem;
+  position: absolute;
+  left: 15.8125rem;
+  top: 8.125rem;
+}
+.group-77 {
+  width: 1.9375rem;
+  height: 3.25rem;
+  position: static;
+}
+.group-178 {
+  position: absolute;
+  left: 17.75rem;
+  top: 11.4375rem;
+  overflow: visible;
+}
+.group-200 {
+  width: 0rem;
+  height: 0rem;
+  position: static;
+}
+.group-822 {
+  width: 14.5625rem;
+  height: 14.5625rem;
+  position: static;
+}
+.rectangle-132 {
+  background: rgba(0, 194, 255, 0.5);
+  border-radius: 0.3125rem;
+  width: 14.5625rem;
+  height: 14.5625rem;
+  position: absolute;
+  left: 0rem;
+  top: 8.125rem;
+}
+.group-772 {
+  width: 7.3125rem;
+  height: 4.625rem;
+  position: static;
+}
+.group-188 {
+  position: absolute;
+  left: 1.625rem;
+  top: 11.375rem;
+  overflow: visible;
+}
+.group-2002 {
+  width: 7.0625rem;
+  height: 1.3125rem;
+  position: static;
+}
+.emergency {
+  color: var(--primary, #1f2b6c);
+  text-align: left;
+  font: 700 1.125rem "Work Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 1.875rem;
+  top: 14.6875rem;
+}
+.group-83 {
+  width: 14.5625rem;
+  height: 14.5625rem;
+  position: static;
+}
+.rectangle-133 {
+  background: rgba(0, 194, 255, 0.5);
+  border-radius: 0.3125rem;
+  width: 14.5625rem;
+  height: 14.5625rem;
+  position: absolute;
+  left: 31.625rem;
+  top: 8.125rem;
+}
+.group-773 {
+  width: 3.5625rem;
+  height: 4.3125rem;
+  position: static;
+}
+.group-202 {
+  position: absolute;
+  left: 33.55rem;
+  top: 11.6875rem;
+  overflow: visible;
+}
+.group-2003 {
+  width: 3.5625rem;
+  height: 1.3125rem;
+  position: static;
+}
+.email {
+  color: var(--primary, #1f2b6c);
+  text-align: left;
+  font: 700 1.125rem "Work Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 33.5rem;
+  top: 14.6875rem;
+}
+.group-84 {
+  width: 14.5625rem;
+  height: 14.5625rem;
+  position: static;
+}
+.rectangle-134 {
+  background: rgba(0, 194, 255, 0.5);
+  border-radius: 0.3125rem;
+  width: 14.5625rem;
+  height: 14.5625rem;
+  position: absolute;
+  left: 47.4375rem;
+  top: 8.125rem;
+}
+.group-774 {
+  width: 11.5625rem;
+  height: 7.9375rem;
+  position: static;
+}
+.group-177 {
+  position: absolute;
+  left: 49.355rem;
+  top: 11.625rem;
+  overflow: visible;
+}
+.group-2004 {
+  width: 11.5625rem;
+  height: 4.875rem;
+  position: static;
+}
+.mon-sat-09-00-20-00 {
+  color: var(--primary, #1f2b6c);
+  text-align: left;
+  font: var(--body, 400 1rem/140% "Work Sans", sans-serif);
+  position: absolute;
+  left: 49.3125rem;
+  top: 16.5rem;
+}
+.sunday-emergency-only {
+  color: var(--primary, #1f2b6c);
+  text-align: left;
+  font: var(--body, 400 1rem/140% "Work Sans", sans-serif);
+  position: absolute;
+  left: 49.3125rem;
+  top: 18.1875rem;
+}
+.working-hours {
+  color: var(--primary, #1f2b6c);
+  text-align: left;
+  font: 700 1.125rem "Work Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 49.3125rem;
+  top: 14.6875rem;
+}
+.rectangle-93 {
+  background: #222f66;
+  width: 5.9375rem;
+  height: 1.875rem;
+  position: absolute;
+  left: 8.125rem;
+  top: 5.375rem;
+}
+.group-2005 {
+  position: absolute;
+  inset: 0;
+}
+.heading-2-a-better-way-to-buy-it {
+  color: #222f66;
+  text-align: left;
+  font: 400 2.25rem "PT Serif", sans-serif;
+  position: absolute;
+  left: 11.0625rem;
+  top: 213.3125rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.p {
+  height: 4.8125rem;
+  position: absolute;
+  right: 39.354375rem;
+  left: 11.0625rem;
+  top: 227.1875rem;
+}
+.link-shop-for-technology-products {
+  background: #159eec;
+  border-radius: 1.5625rem;
+  padding: 1.25rem 2.471875rem 1.25rem 2.375rem;
+  display: flex;
+  flex-direction: row;
+  gap: 0rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+}
+.explore {
+  color: #ffffff;
+  text-align: center;
+  font: 400 0.875rem "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.link-shop-for-technology-products2 {
+  border-radius: 1.5625rem;
+  border-style: solid;
+  border-color: #222f66;
+  border-width: 0.0625rem;
+  padding: 1.25rem 2.471875rem 1.25rem 2.375rem;
+  display: flex;
+  flex-direction: row;
+  gap: 0rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 12.8125rem;
+  top: 0rem;
+}
+.virtual-tour {
+  color: #000000;
+  text-align: center;
+  font: 400 0.875rem "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-2 {
+  border-radius: 1.25rem;
+  width: 39.0625rem;
+  height: 26rem;
+  position: absolute;
+  left: 44.1875rem;
+  top: 207.9375rem;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-fusce-at-amet-eu-non-vel-netus-duis-enim-quis-arcu-nibh-nam-eget-lectus-lacus-mauris-tellus-in-ut-aliquam-neque-mi-enim-accumsan-eget-adipiscing-lacinia-lacus-viverra-tortor-feugiat-in-amet-morbi-tincidunt-bibendum-in-urna-consectetur-elementum-id-malesuada-molestie-posuere-nunc-et-amet-amet3 {
+  color: #606060;
+  text-align: left;
+  font: 400 0.9375rem "PT Sans", sans-serif;
+  position: absolute;
+  left: 11.0625rem;
+  top: 218.1875rem;
+  width: 28.4375rem;
+  height: 8.5rem;
+}
