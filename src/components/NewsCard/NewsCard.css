@@ -1,0 +1,25 @@
+.news-card {
+	width: 25rem;
+	background-color: #29367D;
+	padding: 2rem 1rem 2rem 2rem;
+	border-radius: 1rem;
+}
+
+.news-heading {
+	color: #E1E1E1;
+	font-family: PT Serif;
+	font-size: 1.125rem;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.news-date {
+	color: #D9D9D9;
+	font-family: PT Sans;
+	font-size: 0.75rem;
+	font-style: normal;
+	font-weight: 400;
+	padding: 10px 30px;
+	line-height: normal;
+}

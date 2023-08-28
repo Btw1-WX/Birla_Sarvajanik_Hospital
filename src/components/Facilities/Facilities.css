@@ -1,0 +1,104 @@
+
+.facilities-container {
+    width: 1336px;
+    /* height: 600px; */
+    flex-shrink: 0;
+}
+
+.facilities-heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--primary, #1F2B6C);
+    font-family: Yeseva One;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    /* width: 1336px; */
+
+}
+
+.hero-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 80px;
+}
+
+.pic1 {
+    text-align: center;
+    /* width: 250px; */
+    /* height: 250px; */
+    flex-shrink: 0;
+    color: #000;
+    text-align: center;
+    font-family: Yeseva One;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.swipe {
+    cursor: pointer;
+}
+
+
+@media (max-width: 480px) {
+    .facilities-container {
+        width: 100%; /* Adjust as needed */
+    }
+
+    .facilities-heading {
+        font-size: 24px; /* Adjust as needed */
+        width: 100%;
+    }
+
+    .hero-section {
+        flex-direction: column;
+        align-items: center;
+        margin-top: 40px; /* Adjust as needed */
+    }
+
+    .pic1 {
+        font-size: 20px; /* Adjust as needed */
+    }
+}
+
+
+@media (max-width: 768px) {
+    .facilities-container {
+        width: 100%;
+        /* text-align: center; */
+         /* Adjust as needed */
+        /* Add other adjustments as needed */
+    }
+
+    .facilities-heading {
+        /* Center the heading */
+        /* text-align: center; */
+        margin-top: 10px; /* Adjust margin as needed */
+        /* Add other styling for heading */
+    }
+
+    .hero-section {
+        /* Adjust styles for responsive layout */
+        /* For stacking images and text */
+        flex-wrap: wrap;
+    }
+
+    .pic1 {
+        /* Adjust styles for responsive layout */
+        margin: 20px auto;
+        /* Add other adjustments as needed */
+    }
+
+    .swipe {
+        display: none; /* Hide swipe images in mobile view */
+    }
+}
+
+
+

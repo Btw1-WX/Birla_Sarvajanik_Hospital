@@ -1,0 +1,44 @@
+.ellipse {
+	text-align: center;
+	display: inline-block;
+	padding: 0.5rem;
+}
+
+.ellipse__circle {
+	width: 7.8125rem;
+	height: 7.8125rem;
+	border-radius: 50%;
+	border: 1px solid black;
+	background-color: #159EEC;
+	box-shadow: 0 0 5px 2px #afafaf;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+/* 
+.ellipse__img {
+} */
+
+.ellipse__text {
+	margin-top: 0.5rem;
+}
+
+@media screen and (max-width: 768px) {
+	.ellipse__circle {
+		width: 6rem;
+		height: 6rem;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	.ellipse__circle {
+		width: 5rem;
+		height: 5rem;
+	}
+
+	.ellipse__text {
+		font-size: 12px;
+	}
+}

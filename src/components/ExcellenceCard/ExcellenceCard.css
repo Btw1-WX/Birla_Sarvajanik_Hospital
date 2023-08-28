@@ -1,0 +1,44 @@
+.excellence-card {
+	position: relative;
+	display: inline-block;
+	margin: 1rem;
+}
+
+.excellence-card__img {
+	width: 100%;
+	flex-shrink: 0;
+	border-radius: 1rem;
+}
+
+.excellence-card__text {
+	background-color: #fff;
+	border-radius: 0.5rem;
+	padding: 2.5% 3%;
+	text-align: center;
+	font-size: 100%;
+	width: 76%;
+	margin: -1.5rem auto;
+	position: sticky;
+	/* z-index: 100; */
+}
+
+/* Responsive adjustments for 768px */
+@media (max-width: 768px) {
+	.excellence-card {
+		width: 100%;
+		margin: 1rem auto;
+	}
+
+	.excellence-card__text {
+		width: 100%;
+		margin: 0;
+		padding: 8% 10%;
+	}
+}
+
+/* Responsive adjustments for 320px */
+@media (max-width: 320px) {
+	.excellence-card__text {
+		padding: 10% 15%;
+	}
+}

@@ -1,0 +1,35 @@
+.testimonials {
+	margin: 2rem auto;
+	text-align: center;
+	width: 80%;
+}
+
+.testimonials>div {
+	margin: auto;
+	display: flex;
+}
+
+.testimonials>div>* {
+	padding: 2rem 1rem;
+}
+
+/* For screens up to 768px */
+@media (max-width: 768px) {
+	.testimonials>div {
+		flex-direction: column;
+		/* Change flex direction to column for vertical layout */
+	}
+
+	.testimonials>div>* {
+		padding: 1rem;
+		/* Reduce padding for better spacing in smaller screens */
+	}
+}
+
+/* For screens up to 320px */
+@media (max-width: 320px) {
+	.testimonials {
+		width: 95%;
+		/* Adjust width to fit smaller screens */
+	}
+}

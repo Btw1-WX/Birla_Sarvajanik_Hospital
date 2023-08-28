@@ -1,0 +1,252 @@
+.news-container {
+    height: 636px;
+}
+
+.news-heading {
+    text-align: center;
+}
+
+.news-slogan {
+    color: #159EEC;
+    text-align: center;
+
+    font-family: Work Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    text-transform: uppercase;
+}
+
+.only-news {
+    margin-top: 10px;
+    color: #1F2B6C;
+
+    font-family: Yeseva One;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.news-cards {
+    margin-top: 64px;
+}
+
+.row-one-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.row-two-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.views-likes {
+    display: flex;
+}
+
+.left-card {
+    display: flex;
+    width: 486px;
+}
+
+.right-card {
+    display: flex;
+}
+
+.date-month-year {
+    color: #159EEC;
+
+    font-family: Work Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.text-part {
+    margin: 20px;
+}
+
+.article-title {
+    color: #212124;
+
+
+    font-family: Work Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+}
+
+.views-likes {
+    margin-top: 24px;
+}
+
+.three-dots {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    gap: 20px;
+}
+
+.three-dots-props {
+    width: 20px;
+    height: 18px;
+    border-radius: 50%;
+    background-color: #BFD2F8;
+
+}
+
+@media (max-width: 480px) {
+    .news-container {
+        width: 100%;
+        height: auto;
+    }
+
+    .news-heading {
+        font-size: 18px;
+        margin-top: 10px;
+        text-align: initial;
+    }
+
+    .only-news,
+    .news-slogan {
+        width: 100vw;
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .news-cards {
+        margin-top: 40px;
+    }
+
+    .row-one-card,
+    .row-two-card {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .left-card {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .text-part {
+        margin: 10px;
+        /* Adjust as needed */
+    }
+
+    .article-title {
+        font-size: 16px;
+        /* Adjust as needed */
+        line-height: 120%;
+        /* Adjust as needed */
+    }
+
+    .views-likes {
+        margin-top: 12px;
+        /* Adjust as needed */
+    }
+
+    .three-dots {
+        margin-top: 20px;
+        /* Adjust as needed */
+        margin-bottom: 20px;
+    }
+
+    .three-dots-props {
+        width: 16px;
+        /* Adjust as needed */
+        height: 14px;
+        /* Adjust as needed */
+    }
+
+}
+
+
+/* For screens with max width of 768px */
+@media (max-width: 768px) {
+    .news-container {
+        width: 100%;
+        /* Adjust as needed */
+        height: auto;
+        /* Adjust as needed */
+    }
+
+    .news-heading {
+        font-size: 18px;
+        /* Adjust as needed */
+        margin-top: 10px;
+        /* Adjust as needed */
+        text-align: initial;
+    }
+
+    .only-news,
+    .news-slogan {
+        width: 100vw;
+        text-align: center;
+        font-size: 15px;
+        /* Adjust as needed */
+    }
+
+    .news-cards {
+        margin-top: 40px;
+        /* Adjust as needed */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .row-one-card,
+    .row-two-card {
+        flex-direction: column;
+        /* Adjust as needed */
+        align-items: center;
+    }
+
+    .left-card {
+        width: 100%;
+        /* Adjust as needed */
+        margin-bottom: 20px;
+        /* Adjust as needed */
+    }
+
+    .text-part {
+        margin: 10px;
+        /* Adjust as needed */
+    }
+
+    .article-title {
+        font-size: 16px;
+        /* Adjust as needed */
+        line-height: 120%;
+        /* Adjust as needed */
+    }
+
+    .views-likes {
+        margin-top: 12px;
+        /* Adjust as needed */
+    }
+
+    .three-dots {
+        margin-top: 20px;
+        /* Adjust as needed */
+        margin-bottom: 20px;
+    }
+
+    .three-dots-props {
+        width: 16px;
+        /* Adjust as needed */
+        height: 14px;
+        /* Adjust as needed */
+    }
+}

@@ -1,0 +1,15 @@
+.stack {
+	display: inline-block;
+	border: 1px solid #1F2B6C;
+	box-shadow: 3px 3px 4px 0px #1F2B6C;
+	padding: 1rem 7rem;
+	margin: 2rem;
+	border-radius: .5rem;
+
+	color: #000;
+	font-family: PT Serif;
+	font-size: 1.875rem;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}

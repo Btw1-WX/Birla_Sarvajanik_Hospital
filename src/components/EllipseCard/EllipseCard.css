@@ -1,0 +1,22 @@
+.ellipse-card {
+	display: flex;
+	gap: 0.5rem;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: auto !important;
+	margin: 0 2rem;
+}
+
+.ellipse-card__row {
+	display: flex;
+	gap: 0.5rem;
+}
+
+@media (max-width: 320px) {
+	.ellipse-card__row {
+		align-items: center;
+		gap: 1rem;
+		/* Increase the gap for better spacing */
+	}
+}

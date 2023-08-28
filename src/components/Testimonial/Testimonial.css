@@ -1,0 +1,43 @@
+.testimonial {
+	min-width: 190px;
+}
+
+.testimonial__profile {
+	display: flex;
+	align-items: center;
+}
+
+.testimonial__profile-detail {
+	margin-left: .5rem;
+}
+
+.testimonial__profile-img {
+	width: 5rem;
+}
+
+.testimonial__profile-name {
+	color: #159EEC;
+	font-family: PT Serif;
+	font-size: 1.125rem;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	text-transform: capitalize;
+	margin-bottom: .25rem;
+}
+
+.testimonial__profile-title {
+	color: #29367D;
+	font-family: PT Serif;
+	font-size: 0.9375rem;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	text-transform: capitalize;
+	text-align: left;
+}
+
+.testimonial__text {
+	text-align: left;
+	padding: .5rem;
+}

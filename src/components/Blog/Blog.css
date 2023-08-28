@@ -1,0 +1,52 @@
+.blog__description {
+    font-family: serif;
+    font-weight: 400;
+    font-size: 1em;
+    line-height: 1.5;
+    color: #606060;
+}
+
+.blog__btn-read-more {
+    width: 8em;
+    height: 3em;
+    border: 1px solid #222F66;
+    border-radius: 25px;
+    font-family: serif;
+    font-weight: 400;
+    font-size: 1em;
+    line-height: 1.5;
+    color: #222F66;
+    margin-top: 1rem;
+}
+
+/* For 768px viewport */
+@media (max-width: 768px) {
+    .blog__description {
+        font-size: 0.9em;
+        line-height: 1.4;
+    }
+
+    .blog__btn-read-more {
+        width: 7em;
+        height: 2.5em;
+        font-size: 0.9em;
+        line-height: 1.4;
+        margin: 0.5rem 0;
+    }
+}
+
+/* For 320px viewport */
+@media (max-width: 320px) {
+    .blog__description {
+        font-size: 0.8em;
+        line-height: 1.3;
+    }
+
+    .blog__btn-read-more {
+        width: 6em;
+        height: 2em;
+        font-size: 0.8em;
+        line-height: 1.3;
+        margin: 0.25rem 0;
+    }
+}

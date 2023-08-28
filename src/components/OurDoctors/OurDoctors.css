@@ -1,0 +1,139 @@
+
+.our-doctors {
+    width: 100vw;
+}
+
+.care {
+    color: var(--secondary, #159EEC);
+text-align: center;
+
+/* Caption */
+font-family: Work Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 2.88px;
+text-transform: uppercase;
+}
+
+.doctors {
+    color: var(--primary, #1F2B6C);
+    text-align: center;
+
+/* Display 2 */
+    font-family: Yeseva One;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.doctor-heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 64px;
+    margin-bottom: 64px;
+}
+
+.doctor-cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.doctor-description {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #BFD2F8;
+}
+.name-desc {
+    margin-top: 20px;
+    color: var(--primary, #1F2B6C);
+
+/* Body 2 */
+    font-family: Work Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%; /* 25.2px */
+}
+
+.profession-desc {
+    margin-top: 5px;
+    color: var(--primary, #1F2B6C);
+
+/* Caption */
+    font-family: Work Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 2.88px;
+    text-transform: uppercase;
+}
+
+.doctor-socials {
+    margin-top: 20px;
+    display: flex;
+    gap: 20px;
+}
+
+.doctor-profile {
+    margin-top: 20px;
+    color: white;
+    background-color: #1F2B6C;
+    width: 317px;
+    text-align: center;
+
+/* Body */
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%; /* 22.4px */
+
+}
+
+
+@media (max-width: 480px) {
+    .our-doctors {
+        padding: 0 20px; /* Adding some padding to the sides for better spacing */
+    }
+
+    .doctor-cards {
+        flex-direction: column; /* Stacking the cards vertically */
+        align-items: center; /* Centering the cards horizontally */
+    }
+
+    .doctor-card {
+        width: 100%; /* Making each card take up the full width */
+    }
+
+    .doctor-image img {
+        width: 100%; /* Making the doctor image stretch to the card's width */
+    }
+
+    .doctor-description {
+        background-color: #BFD2F8;
+        padding: 20px; /* Adding some padding to the description for spacing */
+    }
+
+    .name-desc, .profession-desc {
+        text-align: center; /* Centering the name and profession text */
+    }
+
+    .doctor-socials {
+        justify-content: center; /* Centering the social icons horizontally */
+        margin-top: 10px; /* Adjusting margin for spacing */
+    }
+
+    .doctor-profile {
+        width: 100%; /* Making the profile button take up the full width */
+    }
+}
